@@ -5,11 +5,16 @@ Welcome to the Lab Setup Repo for CSD-112 course labs!
 ## Table of Contents
 
 - [About](#about)
+- [Resources](#resources)
 - [Contact](#contact)
 
 ## About
 
 This repository serves as the starting point for all the upcoming labs in our course. Here, you'll find everything you need to get your development environment ready and set up for a successful lab experience.
+
+## Resources
+
+- [Git-Cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Contact
 
