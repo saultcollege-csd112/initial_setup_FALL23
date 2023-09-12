@@ -18,7 +18,7 @@ This repository serves as the starting point for all the upcoming labs in our co
 
 ## Contact
 
-For any questions, concerns, or updates related to labs, please contact Roberto Vallado at roberto.vallado@saultcollege.ca or through teams on the CSD112 teams chat as well as through personal message through teams.
+For any questions, concerns, or updates related to labs, please contact Roberto Vallado at rvalladopacheco@saultcollege.ca or through teams on the CSD112 teams chat as well as through personal message through teams.
 
 I want you to know that I am here to support and guide you every step of the way throughout this course. 
 
